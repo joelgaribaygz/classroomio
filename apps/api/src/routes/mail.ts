@@ -17,9 +17,9 @@ export const mailRouter = new Hono().post(
           throw new Error('Sending from test.com addresses is not allowed');
         }
 
-        if (!emailData.from?.includes('<notify@mail.classroomio.com>')) {
-          throw new Error('Emails must be sent from a @mail.classroomio.com address');
-        }
+        // if (!emailData.from?.includes('<notify@mail.classroomio.com>')) {
+        //  throw new Error('Emails must be sent from a @mail.classroomio.com address');
+        // }
 
         try {
           const res = env.ZOHO_TOKEN
