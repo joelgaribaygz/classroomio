@@ -17,7 +17,7 @@ export const mailRouter = new Hono().post(
           throw new Error('Sending from test.com addresses is not allowed');
         }
 
-        // if (!emailData.from?.includes('<notify@mail.classroomio.com>')) {
+        // if (!emailData.from?.includes('<comunidad@updates.predictorix.ai>')) {
         //  throw new Error('Emails must be sent from a @mail.classroomio.com address');
         // }
 
