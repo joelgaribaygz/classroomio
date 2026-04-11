@@ -132,7 +132,7 @@
 </script>
 
 <svelte:head>
-  <title>Join {data.name} on ClassroomIO</title>
+  <title>Join {data.name} on Predictorix AI</title>
 </svelte:head>
 
 <AuthUI

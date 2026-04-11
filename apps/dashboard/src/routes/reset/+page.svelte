@@ -51,7 +51,7 @@
 </script>
 
 <svelte:head>
-  <title>Join ClassroomIO</title>
+  <title>Join Predictorix AI</title>
 </svelte:head>
 
 <AuthUI

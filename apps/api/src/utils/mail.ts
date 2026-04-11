@@ -160,8 +160,8 @@ export const withEmailTemplate = (content: string): string =>
       color: #1e293b;
     ">
   <div class="gutter">
-    <a href="https://classroomio.com" target="_blank">
-      <img src="https://brand.cdn.clsrio.com/cio-bg-transparent.png" alt="ClassroomIO Logo" /></a>
+    <a href="https://comunidad.predictorix.ai" target="_blank">
+      <img src="https://predictorix.ai/logo-horizontal-white.png" alt="Predictorix AI Logo" /></a>
   </div>
   <div class="wrap" style="
         background-color: #fff;
@@ -177,36 +177,19 @@ export const withEmailTemplate = (content: string): string =>
     font-size: 12px;
     color: #fff;
     padding: 30px;
-    background-color: #0542CC;
+    background-color: #131416;
     max-width: 525px;
     margin: 0 auto;">
-    <p>Find us on</p>
-    <table class="socialicons">
-      <tr>
-        <td>
-          <a target="_blank" href="https://twitter.com/classroomio"><img title="X"
-              src="https://brand.cdn.clsrio.com/socials/twitter.png" alt="X" width="19" /></a>
-        </td>
-        <td>
-          <a target="_blank" href="https://www.youtube.com/@ClassroomIO"><img title="Youtube"
-              src="https://brand.cdn.clsrio.com/socials/youtube.png" alt="Youtube" width="24" /></a>
-        </td>
-        <td>
-          <a target="_blank" href="https://www.facebook.com/classroomiohq"><img title="Facebook"
-              src="https://brand.cdn.clsrio.com/socials/facebook.png" alt="Facebook" width="24" /></a>
-        </td>
-      </tr>
-    </table>
-    <p style="padding-top: 8px; line-height: initial">
-      ClassroomIO ${new Date().getFullYear()}. All rights reserved.<br />
-      <a style="text-decoration: none" href="https://app.enzuzo.com/policies/tos/958fc978-5477-11ee-a03b-7b111830c594"
-        target="_blank">Terms</a>
-      |
-      <a style="text-decoration: none"
-        href="https://app.enzuzo.com/policies/privacy/958fc978-5477-11ee-a03b-7b111830c594" target="_blank">Privacy
-        Policy</a>
+
+<p style="margin: 0 0 8px; color: #999999;">Síguenos en Instagram</p>
+    <p style="margin: 0 0 16px;">
+      <a target="_blank" href="https://www.instagram.com/predictorix.ai" style="color: #ffffff; text-decoration: none;">@predictorix.ai</a>
+    </p>
+    <p style="margin: 0; font-size: 11px; color: #bbbbbb;">
+      Predictorix AI ${new Date().getFullYear()}. Todos los derechos reservados.
     </p>
   </div>
+
 </body>
 
 </html>

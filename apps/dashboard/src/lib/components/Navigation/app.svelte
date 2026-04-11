@@ -41,7 +41,7 @@
 </script>
 
 <nav
-  class="{navClass} bg-primary-700 flex h-[48px] w-full p-1 transition delay-150 duration-300 ease-in-out md:px-6"
+  class="{navClass} bg-[#131416] flex h-[48px] w-full p-1 transition delay-150 duration-300 ease-in-out md:px-6"
 >
   <ul class="flex w-full items-center">
     <div class="flex items-center text-white">
@@ -83,7 +83,7 @@
         id="logo"
         class="line-clamp-1 text-lg"
       >
-        {isCoursePage ? title : 'ClassroomIO'}
+        {isCoursePage ? title : 'Predictorix AI'}
       </a>
     </div>
 

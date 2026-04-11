@@ -25,7 +25,7 @@
 
 <Modal
   onClose={closeModal}
-  open={welcomePopup === 'true'}
+  open={false}
   width="w-9/12"
   maxWidth="w-[800px]"
   modalHeading="Welcome"
@@ -33,7 +33,7 @@
   <p class="text-sm text-black md:text-base lg:text-lg dark:text-white">
     {$t('welcome_modal.we_at')}
     <a href="https://app.classroomio.com/" class="text-primary-700 no-underline hover:no-underline"
-      >ClassroomIO</a
+      >Predictorix AI</a
     >
     {$t('welcome_modal.small_team')}
     <span class="text-primary-700">{$t('welcome_modal.thank_you')};</span>

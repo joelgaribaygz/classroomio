@@ -89,7 +89,7 @@
 </script>
 
 <svelte:head>
-  <title>Dashboard - ClassroomIO</title>
+  <title>Dashboard - Predictorix AI</title>
 </svelte:head>
 
 <WelcomeModal />

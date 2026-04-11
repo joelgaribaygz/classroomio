@@ -50,7 +50,7 @@
 
   function pageSetup() {
     console.log(
-      'Welcome to ClassroomIO, we are grateful you chose us.',
+      'Welcome to Predictorix AI, we are grateful you chose us.',
       $page.url.host,
       `\nIs student domain: ${data.isOrgSite}`,
       data
