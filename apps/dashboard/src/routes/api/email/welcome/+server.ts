@@ -13,22 +13,22 @@ export async function POST({ fetch, request }) {
     {
       from: `"Predictorix AI" <comunidad@updates.predictorix.ai>`,
       to,
-      subject: 'Welcome to ClassroomIO!',
+      subject: '¡Bienvenido a la Comunidad Predictorix AI!',
       content: `
-    <p>Dear ${name},</p>
-      <p>My name is Best, the founder of ClassroomIO. I saw you signed up, any questions so far?</p>
-      <p>
-       Would you like to get a walkthrough of the tool in a 30 minutes product demo? It's free and we won't try to sell you anything, just want to learn from your use case and show you all the cool features and flows we thought about.
-      </p>
-      <p>
-        Interested? just book a 30mn demo slot in our calendar!
-      </p>
-      <div>
-        <a href="https://classroomio.com/demo">Book demo</a>
-      </div>
-      <p>
-        PS: I reply personally to every email. We don't have an outsourced support team at the other end of the globe.. ;-)
-      </p>
+    <p>Hola ${name},</p>
+    <p>¡Bienvenido a la <strong>Comunidad Predictorix AI</strong>! Nos alegra tenerte aquí.</p>
+  <p>
+    En esta plataforma encontrarás cursos, recursos y contenido diseñado para ayudarte a 
+    aprovechar la inteligencia predictiva en tu negocio.
+  </p>
+  <p>
+    ¿Te gustaría ver todo lo que Predictorix AI puede hacer por ti? Agenda una demo 
+    gratuita de 30 minutos y te mostramos cómo sacarle el máximo provecho.
+  </p>
+  <div>
+    <a class="button" href="https://predictorix.ai/es/demo">Agendar mi demo gratuita</a>
+  </div>
+  <p><strong>El equipo de Predictorix AI</strong></p>
     `
     }
   ];
