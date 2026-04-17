@@ -62,7 +62,7 @@ export const config = {
 export const { t, loading, locales, locale, initialized, translations, loadTranslations } =
   new i18n(config);
 
-export const selectedLocale = writable<string>('en');
+export const selectedLocale = writable<string>('es');
 
 // Translations logs
 loading.subscribe(async ($loading) => {

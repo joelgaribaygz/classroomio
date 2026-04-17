@@ -86,14 +86,14 @@
       }
     },
     "team_members": {
-      "invite_sent": "¡Invitar enviado!",
+      "invite_sent": "¡Invitación enviada!",
       "user_exists": "El usuario ya existe",
       "invite_fail": "No se pudo enviar la invitación, inténtelo de nuevo",
       "remove_fail": "No se pudo eliminar el usuario, inténtelo de nuevo"
     },
     "lms": {
       "error": {
-        "username_exists": "nombre de usuario ya existe",
+        "username_exists": "Nombre de usuario ya existe",
         "update": "La actualización falló:",
         "try_again": "Inténtalo de nuevo"
       }
@@ -102,8 +102,8 @@
       "error": {
         "not_right": "Algo no está bien. Inténtelo más tarde.",
         "went_wrong": "Algo salió mal. Inténtelo más tarde.",
-        "title": "el título no puede estar vacío",
-        "description": "la descripción no puede estar vacía",
+        "title": "El título no puede estar vacío",
+        "description": "La descripción no puede estar vacía",
         "failed_integration": "Error de integración, inténtelo de nuevo más tarde",
         "failed_deletion": "Error al eliminar, inténtelo de nuevo más tarde"
       },
@@ -176,13 +176,13 @@
     "progress": "En curso",
     "complete": "Completo",
     "search": "Buscar cursos",
-    "not_in_progress": "Ningún curso en curso",
+    "not_in_progress": "Ningún curso en proceso",
     "any_progress": "Cualquier curso que inicies se mostrará aquí.",
     "not_completed": "Ningún curso completado",
     "any_course": "Cualquier curso que completes se mostrará aquí."
   },
   "lms_navigation": {
-    "home": "Hogar",
+    "home": "Inicio",
     "my_learning": "Mi aprendizaje",
     "exercise": "Ejercicio",
     "community": "Comunidad",
@@ -223,7 +223,7 @@
       "question": "pregunta",
       "comment": "comentario",
       "sure": "Estás seguro que quieres eliminar esto",
-      "no": "No, mantenlo",
+      "no": "No, mantenerlo",
       "yes": "Si, borrar"
     },
     "ask": {
@@ -234,7 +234,7 @@
       "select_course": "Seleccionar Curso",
       "ask_community": "Pregunta a la comunidad cualquier duda que tengas",
       "question": "Pregunta",
-      "save": "Ahorrar",
+      "save": "Guardar",
       "edit": "Editar",
       "cancel": "Cancelar",
       "give": "Da una respuesta",
@@ -284,36 +284,36 @@
         "start_course": "Iniciar curso",
         "requirement": "Requisito",
         "description": "Descripción del curso",
-        "learn": "lo que aprenderás",
+        "learn": "Lo que aprenderás",
         "certificate": "Certificado",
-        "certificate_text": "Cuando completes todos los cursos del programa, obtendrás un Certificado para compartir con tu red profesional.",
+        "certificate_text": "Cuando completes todos los cursos del programa, obtendrás un Certificado para compartir con tu red social favorita.",
         "content": "Contenido del curso",
         "slide": "1 diapositiva",
-        "note": "nota",
-        "video": "video",
+        "note": "Nota",
+        "video": "Video",
         "reviews": "Reseñas",
         "see_all": "Ver todo",
         "header_video": "Vídeo de encabezado",
         "no_course_published": "Ningún curso publicado",
-        "coming_your_way": "¡Tenemos excelentes cursos en camino, estad atentos!",
+        "coming_your_way": "¡Tenemos excelentes cursos en camino, esten atentos!",
         "view_less": "Ver menos",
         "view_all": "Ver todo",
         "thank_you": "Gracias por dejar un mensaje, nos comunicaremos con usted en breve",
-        "name": "Su nombre",
+        "name": "Tu nombre",
         "email": "Tu correo electrónico",
-        "phone": "Su teléfono",
+        "phone": "Tu teléfono",
         "message": "Tu mensaje",
-        "your_message": "Su mensaje aquí",
-        "submit": "Entregar",
+        "your_message": "Tu mensaje aquí",
+        "submit": "Enviar",
         "successful_sub": "Has sido agregado exitosamente. Gracias por suscribirte.",
         "enter": "Introduce tu correo electrónico...",
-        "powered_by": "Energizado por",
+        "powered_by": "Desarrollado por",
         "landing_page": "Página de destino",
         "explore": "Explorar cursos",
         "find": "Encuentra cursos que te encantarán de los mejores profesores de todo el mundo",
         "find_course": "Encuentra un curso...",
         "instructor": "Instructor",
-        "courses": "cursos",
+        "courses": "Cursos",
         "reviews_modal": {
           "title": "Reseñas",
           "rating": "Clasificación",
@@ -335,7 +335,7 @@
           "no_images": "No hay imágenes disponibles."
         },
         "editor": {
-          "save": "Ahorrar",
+          "save": "Guardar",
           "page_builder": "Creador de páginas",
           "section": "sección",
           "pricing_form": {
@@ -404,7 +404,7 @@
         "course_content": "Contenido del curso",
         "modules": "módulos",
         "lessons": "lecciones",
-        "exercises": "ceremonias"
+        "exercises": "ejercicios"
       },
       "certificates": {
         "title": "Certificados",
@@ -598,7 +598,7 @@
             "heading": "Todo ejercicio",
             "questions": "Preguntas",
             "submissions": "Envíos",
-            "save": "Ahorrar",
+            "save": "Guardar",
             "preview": "Avance",
             "reorder": "Reordenar preguntas",
             "delete_exercise": "Eliminar ejercicio",
@@ -811,7 +811,7 @@
           "lesson_title": "Título de la lección",
           "click_to": "Haga clic para",
           "fullname": "nombre completo",
-          "save": "Ahorrar",
+          "save": "Guardar",
           "edit": "Editar",
           "delete": "Borrar",
           "lock": "Cerrar",
@@ -1012,7 +1012,7 @@
         "custom": "Dominio personalizado",
         "domain": "Añade tu propio nombre de dominio",
         "title": "Dominio personalizado",
-        "save": "Ahorrar",
+        "save": "Guardar",
         "your_domain": "Tu dominio",
         "custom_domain_error": "No puede agregar un dominio de nivel superior como dominio personalizado. En su lugar, utilice un subdominio como 'cursos.[susitio web].com' o 'www.[susitio web].com'.",
         "custom_domain_success": "Dominio personalizado agregado exitosamente",
@@ -1264,7 +1264,7 @@
         "question": "Pregunta",
         "answer": "Respuesta",
         "button": "Agregar nuevas preguntas frecuentes",
-        "save": "Ahorrar",
+        "save": "Guardar",
         "cancel": "Cancelar"
       },
       "courses": {
@@ -1311,7 +1311,7 @@
         "label_placeholder": "por ejemplo, sobre nosotros",
         "url_placeholder": "por ejemplo, #About-US o https://example.com",
         "new_tab": "Abrir en una nueva pestaña",
-        "save": "Ahorrar",
+        "save": "Guardar",
         "cancel": "Cancelar",
         "add": "Agregar nuevo enlace"
       }
